@@ -1,4 +1,4 @@
-# WeChat_AutoJump
+# WeChat_AutoJump使用帮助
 
 ## 运行环境
 仅支持安装了.Net4.5及以上版本的Windows计算机运行。  
